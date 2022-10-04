@@ -45,6 +45,6 @@ If you want to test the player with your own music, add your tracks in .mp3 form
         songTitle:  "Song Title", 
         artist:  "Artist Name",
         source:  "./assets/music/file-name.mp3", 
-        cover:  "source-link", 
+        cover:  "source link for cover image", 
     },
 
